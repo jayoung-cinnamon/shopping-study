@@ -16,13 +16,14 @@ const Layout = ({ children }: { children: JSX.Element }) => {
 export default Layout;
 
 const LayoutContainer = styled.div`
-  border: 1px solid red;
   min-height: 100vh;
   min-width: 1024px;
   display: flex;
   flex-direction: column;
-  ${mediaQueries.mobile`
-    border:1px solid blue;
+  justify-content: center;
+  align-items: center;
+  ${mediaQueries.tablet`
+
   `}
 `;
 
@@ -30,4 +31,5 @@ const MainContainer = styled.div`
   display: flex;
   justify-content: center;
   min-height: calc(100vh - 60px);
+  width: 1024px;
 `;

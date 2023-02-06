@@ -1,18 +1,25 @@
 import React from "react";
 import styled from "styled-components";
 import { mediaQueries } from "../../styles/mediaqueries";
+import BestWeek from "../BestWeek/BestWeek";
+import Carousel from "../Carousel/Carousel";
+import EventComponent from "../Event/EventComponent";
 const Main = () => {
-  return <MainContainer>Main!!</MainContainer>;
+  return (
+    <MainContainer>
+      <Carousel />
+      <BestWeek />
+      <EventComponent />
+    </MainContainer>
+  );
 };
 
 export default Main;
 
 const MainContainer = styled.div`
-  border: 1px solid blue;
-
+  width: 100%;
   font-size: 40px;
-  ${mediaQueries.mobile`
-    border:1px solid blue;
-    font-size: 20px;
+  ${mediaQueries.tablet`
+    font-size: 30px;
   `}
 `;

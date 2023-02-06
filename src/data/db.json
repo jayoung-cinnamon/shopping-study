@@ -1,0 +1,228 @@
+{
+  "product": [
+    {
+      "ulid": "00000000Z8RB6H2YXNNNTSV60B",
+      "productName": "C팔찌",
+      "price": 40000,
+      "like": 0,
+      "categoryId": 2,
+      "categoryName": "bracelet",
+      "id": 8,
+      "brandName": "C brand",
+      "img": "https://via.placeholder.com/150x150/FF7833?text=default_image"
+    },
+    {
+      "ulid": "00000000Z8E89RYB1GWY5P5BJ0",
+      "productName": "D귀걸이",
+      "price": 61000,
+      "like": 0,
+      "categoryId": 4,
+      "categoryName": "earing",
+      "id": 9,
+      "brandName": "A brand",
+      "img": "https://via.placeholder.com/150x150/FF894D?text=default_image"
+    },
+    {
+      "ulid": "00000000Z835ZKXG7AS9XERK75",
+      "productName": "AA귀걸이 ",
+      "price": 690000,
+      "like": 0,
+      "categoryId": 4,
+      "categoryName": "earing",
+      "id": 10,
+      "brandName": "A brand",
+      "img": "https://via.placeholder.com/150x150/FF9A66?text=default_image"
+    },
+    {
+      "ulid": "00000000Z8M8YKTHS4H37TNXEJ",
+      "productName": "E 반지",
+      "price": 123000,
+      "like": 0,
+      "categoryId": 1,
+      "categoryName": "ring",
+      "brandName": "C brand",
+      "id": 12,
+      "img": "https://via.placeholder.com/150x150/FFAB80?text=default_image"
+    },
+    {
+      "ulid": "00000000Z8FYCJGRNTSRSWM2GD",
+      "productName": "oh say it ditto ",
+      "price": 1212,
+      "like": 0,
+      "categoryId": 1,
+      "categoryName": "ring",
+      "brandName": "C brand",
+      "id": 13,
+      "img": "https://via.placeholder.com/150x150/FFBB99?text=default_image"
+    },
+    {
+      "ulid": "00000000Z8KECBXVDD5KSKRW35",
+      "productName": "테스트!",
+      "price": 1111,
+      "like": 0,
+      "categoryId": 1,
+      "categoryName": "ring",
+      "brandName": "C brand",
+      "id": 14,
+      "img": "https://via.placeholder.com/150x150/FFCCB3?text=default_image"
+    },
+    {
+      "ulid": "00000000Z8ZJXEGSC9H5R5QK3N",
+      "productName": "테스트!",
+      "price": 1111,
+      "like": 0,
+      "categoryId": 1,
+      "categoryName": "ring",
+      "brandName": "C brand",
+      "id": 15,
+      "img": "https://via.placeholder.com/150x150/FFDDCC?text=default_image"
+    },
+    {
+      "ulid": "00000000Z8ZJXEGSC9H5R5QK3N",
+      "productName": "테스트!",
+      "price": 1111,
+      "like": 0,
+      "categoryId": 1,
+      "categoryName": "ring",
+      "brandName": "C brand",
+      "id": 16,
+      "img": "https://via.placeholder.com/150x150/FFEEE5?text=default_image"
+    },
+    {
+      "ulid": "00000000Z8ZJXEGSC9H5R5QK3N",
+      "productName": "테스트!",
+      "price": 1111,
+      "like": 0,
+      "categoryId": 1,
+      "categoryName": "ring",
+      "brandName": "C brand",
+      "id": 17,
+      "img": "https://via.placeholder.com/150x150/FF7833?text=default_image"
+    },
+    {
+      "ulid": "00000000Z8KM4NN0ZJAFA3J0MY",
+      "productName": "i don't want to say it back!",
+      "price": 39000,
+      "like": 0,
+      "categoryId": 4,
+      "categoryName": "earing",
+      "brandName": "B brand",
+      "id": 18,
+      "img": "https://via.placeholder.com/150x150/FF894D?text=default_image"
+    },
+    {
+      "ulid": "00000000Z8YA0Y309KAERHQFRV",
+      "productName": "테스트!",
+      "price": 121212,
+      "like": 0,
+      "categoryId": 4,
+      "categoryName": "earing",
+      "brandName": "C brand",
+      "id": 19,
+      "img": "https://via.placeholder.com/150x150/FF9A66?text=default_image"
+    },
+    {
+      "ulid": "00000000Z8F0D6FK06Q774TS8V",
+      "productName": "i don't want to",
+      "price": 270000,
+      "like": 0,
+      "categoryId": 4,
+      "categoryName": "earing",
+      "brandName": "C brand",
+      "id": 20,
+      "img": "https://via.placeholder.com/150x150/FFAB80?text=default_image"
+    },
+    {
+      "ulid": "00000000Z85Y6RFE2ZP1GJEE4Z",
+      "productName": "oh say it ditto ",
+      "price": 40000,
+      "like": 0,
+      "categoryId": 4,
+      "categoryName": "earing",
+      "brandName": "C brand",
+      "id": 21,
+      "img": "https://via.placeholder.com/150x150/FFBB99text=default_image"
+    },
+    {
+      "ulid": "00000000Z87M8VMX7CT8KMQ8HT",
+      "productName": "테스트!",
+      "price": 12000,
+      "like": 0,
+      "categoryId": 1,
+      "categoryName": "반지",
+      "brandName": "C brand",
+      "id": 22,
+      "img": "https://via.placeholder.com/150x150/FFCCB3?text=default_image"
+    },
+    {
+      "ulid": "00000000Z81FK0BZTWTEN848D9",
+      "productName": "hihihihi",
+      "price": 7777,
+      "like": 0,
+      "categoryId": 4,
+      "categoryName": "earing",
+      "brandName": "B brand",
+      "id": 23,
+      "img": "https://via.placeholder.com/150x150/FFDDCC?text=default_image"
+    }
+  ],
+  "bestSellerWeek": [
+    {
+      "ulid": "00000000Z8RB6H2YXNNNTSV60B"
+    },
+    {
+      "ulid": "00000000Z8E89RYB1GWY5P5BJ0"
+    },
+    {
+      "ulid": "00000000Z835ZKXG7AS9XERK75"
+    },
+    {
+      "ulid": "00000000Z8M8YKTHS4H37TNXEJ"
+    },
+    {
+      "ulid": "00000000Z8FYCJGRNTSRSWM2GD"
+    },
+    {
+      "ulid": "00000000Z8KECBXVDD5KSKRW35"
+    }
+  ],
+  "brandTree": [
+    {
+      "ulid": "",
+      "id": 1,
+      "brandName": "A brand"
+    },
+    {
+      "ulid": "",
+      "id": 2,
+      "brandName": "B brand"
+    },
+    {
+      "ulid": "",
+      "id": 3,
+      "brandName": "C brand"
+    }
+  ],
+  "mainImage": [
+    {
+      "id": 0,
+      "imgUrl": "https://via.placeholder.com/1200x600/d9ffb3?text=default_image"
+    },
+    {
+      "id": 1,
+      "imgUrl": "https://via.placeholder.com/1200x600/ccff99?text=1"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://via.placeholder.com/1200x600/bfff80?text=2"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://via.placeholder.com/1200x600/b3ff66?text=3"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://via.placeholder.com/1200x600/a6ff4d?text=4"
+    }
+  ]
+}
